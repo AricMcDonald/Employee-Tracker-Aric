@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker-aric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AricMcDonald/Employee-Tracker-Aric.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AricMcDonald/Employee-Tracker-Aric/issues"
+  },
+  "homepage": "https://github.com/AricMcDonald/Employee-Tracker-Aric#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^14.3.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
